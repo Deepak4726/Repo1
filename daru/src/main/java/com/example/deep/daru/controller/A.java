@@ -23,4 +23,8 @@ public class A {
         testDto.setPhoneNumber(99674523);
         return testDto;
     }
+//    @GetMapping("/gettt")
+//    public String maw(){
+//        return "Dee";
+//    }
 }
